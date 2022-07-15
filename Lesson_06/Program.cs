@@ -46,7 +46,6 @@ ShowArray(arr);
 
 Console.Write($"Количество чисел больше 0 =  {PositiveNumbers(arr)}");
 
-/*
 // Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями  y = k1 * x + b1, y = k2 * x + b2; 
 // значения b1, k1, b2 и k2 задаются пользователем.
 
@@ -73,4 +72,3 @@ Console.WriteLine("Введите значение k2");
 int k2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine($"Точка пересечения: {Point(b1, k1, b2, k2)}");
-*/
